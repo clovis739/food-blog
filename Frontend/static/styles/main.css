@@ -1,0 +1,46 @@
+*{
+    font-family: sans-serif;
+    text-decoration: none;
+    text-transform: none;
+    background-color:beige;
+    font-weight: 300;
+}
+
+
+nav{
+   background-color: rgb(95, 58, 12);
+   padding: 10px;
+    
+    /* justify-content: center;
+    text-align: center; */
+}
+header{
+    display: flex;
+}
+
+ul{
+    justify-content: center;
+    display: flex;
+    
+    
+}
+ul li{
+    list-style: none;
+    justify-content: space-evenly;
+    padding: 10px;
+    font-weight: 900;
+    text-decoration: none;
+    margin-top: -56px;
+    padding-right: 10px;
+   
+}
+ul li a{
+    color: azure;
+
+}
+
+.btn1{
+    justify-content: end;
+    align-self: flex-end;
+}
+
